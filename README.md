@@ -1,4 +1,3 @@
-# Python
 Python入门知识<br>
 ====
 第一章：Python简介<br>
